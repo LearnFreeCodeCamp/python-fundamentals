@@ -1,0 +1,10 @@
+Todays Homework
+1. download and install anaconda navigator s
+2. write the step by step installation including how to add path variable
+3. create github account and create a repository nd make it as public
+4. open jupiter notebook --> write the installation steps of python using single line comment 
+and anaconda navigator--> using multi line coments--> try to follow the indentation methond
+5. write 4 to 5 syntaxes to print the string 
+6. declare a variale and assign some values to it and print the output
+7. save the file as DAY-2_Basicpython and upload it to the github repository
+8. share me the github link to my email id: yuvaanshiscarlett@gmail.com
